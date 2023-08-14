@@ -98,9 +98,9 @@ const paginationRt = reactive({
   padding: 12px;
 }
 
-/*最外层,全屏*/
+/*最外层,全屏 64+36+1+1+6 有点奇怪*/
 .full{
-  height: calc(100vh - 64px);
+  height: calc(100vh - 108px);
 }
 
 /*侧边树*/

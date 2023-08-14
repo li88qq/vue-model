@@ -28,4 +28,4 @@ const initDataSource = (size = 100) => {
 }
 
 //表格数据
-export const dataSource = initDataSource(10)
+export const dataSource = initDataSource(5)
