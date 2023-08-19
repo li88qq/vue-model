@@ -24,7 +24,7 @@ export const vRow: Directive = {
                 colRef.value = 'xs'
             } else if (value < 768) {
                 colRef.value = 'sm'
-            } else if (value < 920) {
+            } else if (value < 992) {
                 colRef.value = 'md'
             } else if (value < 1200) {
                 colRef.value = 'lg'
